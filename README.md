@@ -1,0 +1,2 @@
+# Distinct-Letter-word
+A word is called as a good word if all the letters of the word are distinct. That is, all the letters of the word are different from each other letter. Else, the word is called as a bad word.  Write an algorithm and the subsequent Python code to check if the given word is good or bad.: e.g. START, GOOD, BETTER are bad: WRONG is good! Make the comparison to be case insensitive.
